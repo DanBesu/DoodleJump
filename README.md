@@ -1,2 +1,2 @@
 # DoodleJump
-Doodle Jump Game using C++ SFML Graphincs.
+Doodle Jump Game using C++ SFML Graphics.
